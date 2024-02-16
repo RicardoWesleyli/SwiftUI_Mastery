@@ -1,3 +1,5 @@
+**中文版** ｜ English
+
 "Perhaps you couldn't imagine, this book on SwiftUI programming was written by a product manager.
 
 ### Motivation
@@ -347,6 +349,4 @@ Thanks to Mr. Wang Xinyu, the editor of the Water Conservancy and Hydropower Pre
 
 Finally, thanks to my parents, Qi Qi's parents, and my sister who is about to enter the workplace, as well as Mr. Zhang Yong, Mr. Ye Yongcheng, and Mr. Xu Zhi, who have guided me on the road of life. Thank you for your support and help, lighting up the future path for me.
 
-I dedicate this book to my dearest family and many friends who love iOS
-
-!"
+I dedicate this book to my dearest family and many friends who love iOS!"
