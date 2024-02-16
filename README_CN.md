@@ -1,3 +1,5 @@
+[English](https://github.com/RicardoWesleyli/SwiftUI_Mastery/blob/main/README.md) ｜ 简体中文
+
 > 可能你无法想象，这本SwiftUI编程书籍是一名产品经理写的。
 
 ---
