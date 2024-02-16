@@ -1,4 +1,4 @@
-**![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)中文版** ｜ English
+[简体中文](https://github.com/RicardoWesleyli/SwiftUI_Mastery/blob/main/README_CN.md) ｜ English
 
 "Perhaps you couldn't imagine, this book on SwiftUI programming was written by a product manager.
 
